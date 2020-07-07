@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">input controls</string>
+    <string name="enter_email_address">enter email address</string>
+    <string name="submit">submit</string>
+    <string name="enter_password">enter password</string>
+    <string name="enter_mobile_number">enter mobile number</string>
+    <string name="enter_name">enter name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="skills">skills</string>
+    <string name="java">java</string>
+    <string name="c">c</string>
+    <string name="python">python</string>
+    <string-array name="districts">
+        <item>Select District </item>
+        <item> An </item>
+        <item> bb </item>
+        <item> gg </item>
+        <item> kk </item>
+        <item> vv</item>
+        <item> tt </item>
+    </string-array>
+    <string-array name="Aanthpur_mandals">
+        <item> select mandal </item>
+        <item> A </item>
+        <item> n</item>
+        <item> g </item>
+        <item> k </item>
+        <item> v</item>
+        <item> k </item>
+    </string-array>
+    <string-array name="nellore_mandals">
+        <item> At</item>
+        <item> nt</item>
+        <item> gt </item>
+        <item> kt </item>
+        <item> vt</item>
+        <item> kt </item>
+    </string-array>
+</resources>

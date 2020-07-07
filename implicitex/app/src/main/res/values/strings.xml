@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">implicitex</string>
+    <string name="location">LOcation</string>
+    <string name="call">Call</string>
+    <string name="url">url</string>
+    <string name="uri">tel</string>
+</resources>
